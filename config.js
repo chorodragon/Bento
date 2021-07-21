@@ -22,11 +22,11 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: 'd866ada490ad86b9936531f45e813e3e',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
-  weatherLatitude: '37.774929',
-  weatherLongitude: '-122.419418',
+  weatherLatitude: '14.607343',
+  weatherLongitude: '-90.534452',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
@@ -51,7 +51,7 @@ const CONFIG = {
       id: '3',
       name: 'Todoist',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://trello.com/',
     },
     {
       id: '4',
@@ -85,8 +85,8 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Moe',
+        link: 'https://listen.moe/',
       },
       {
         name: 'Classic',
